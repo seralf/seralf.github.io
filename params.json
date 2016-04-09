@@ -1,1 +1,7 @@
-{"name":"Seralf.github.io","tagline":"seralf's github pages","body":"### seralf's GitHub Pages.\r\n\r\nThis is actually just a placeholder! ;-)","google":"UA-8240593-1","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+	"name": "Seralf.github.io",
+	"tagline": "seralf's github pages",
+	"body": "### seralf's GitHub Pages.\r\n\r\nThis is actually just a placeholder! ;-)",
+	"google": "UA-8240593-1",
+	"note": "Don't delete this file! It's used internally to help with page regeneration."
+}
