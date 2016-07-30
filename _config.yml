@@ -1,2 +1,7 @@
 name: seralf's pages
 markdown: kramdown
+
+
+
+permalink: /blog/:year/:month/:day/:title
+
