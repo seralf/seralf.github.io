@@ -1,6 +1,6 @@
 name: seralf's pages
 markdown: kramdown
-
+theme: minima
 
 
 permalink: /blog/:year/:month/:day/:title
